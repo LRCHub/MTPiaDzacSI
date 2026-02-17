@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "カラカラ",
+  "base_artist": "結束バンド",
+  "createdAt": "2026-02-17T08:35:19.294487Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カラカラ",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/01_カラカラ_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カラカラ",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/02_カラカラ_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カラカラ -instrumental-",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/03_カラカラ_-instrumental-_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カラカラ (달각달각)",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/04_カラカラ_(달각달각)_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カラカラ",
+      "artist": "結束バンド (青山吉能, 鈴代紗弓, 水野朔, 長谷川育美)",
+      "has_synced": true,
+      "path": "select/05_カラカラ_結束バンド_(青山吉能,_鈴代紗弓,_水野朔,_長谷川育美).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "カラカラ -恒星- Live ver.",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/06_カラカラ_-恒星-_Live_ver._結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "カラカラ -恒星- Live ver.",
+      "artist": "結束バンド (青山吉能, 鈴代紗弓, 水野朔, 長谷川育美)",
+      "has_synced": true,
+      "path": "select/07_カラカラ_-恒星-_Live_ver._結束バンド_(青山吉能,_鈴代紗弓,_水野朔,_長谷川育美).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "カラカラ",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/08_カラカラ_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "カラカラ",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/09_カラカラ_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "カラカラ - Karakara",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/10_カラカラ_-_Karakara_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "カラカラ -恒星- Live ver.",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/11_カラカラ_-恒星-_Live_ver._kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "カラカラ",
+      "artist": "Kessoku Band",
+      "has_synced": true,
+      "path": "select/12_カラカラ_Kessoku_Band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カラカラ",
+      "artist": "結束バンド",
+      "has_synced": false,
+      "path": "select/pl_01_カラカラ_結束バンド.txt"
+    }
+  ]
+}
